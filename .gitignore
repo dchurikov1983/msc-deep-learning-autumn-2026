@@ -64,3 +64,17 @@ node_modules
 
 #priv data
 *_priv.*
+
+#imagenette
+imagenette*.*
+imagenette*
+.comet*
+checkpoints
+test
+train
+valid
+*.csv
+*.zip
+*.h5
+.vscode
+.safe
