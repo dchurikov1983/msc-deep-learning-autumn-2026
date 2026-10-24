@@ -65,12 +65,12 @@ node_modules
 #priv data
 *_priv.*
 
-#imagenette
 imagenette*.*
 imagenette*
 .comet*
 checkpoints
-catboost*
+catboost*/*
+aclImdb/*
 test
 train
 valid
