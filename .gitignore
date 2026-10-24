@@ -70,6 +70,7 @@ imagenette*.*
 imagenette*
 .comet*
 checkpoints
+catboost*
 test
 train
 valid
