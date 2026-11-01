@@ -72,7 +72,9 @@ checkpoints
 catboost*/*
 aclImdb/*
 test
+test_mask
 train
+train_mask
 valid
 *.csv
 *.zip
