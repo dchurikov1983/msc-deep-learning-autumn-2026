@@ -80,4 +80,4 @@ valid
 .vscode
 .safe
 people_segmentaton
-people_segmentaton/*
+people_segmentaton/train_mask
