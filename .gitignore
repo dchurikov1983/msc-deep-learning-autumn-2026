@@ -79,6 +79,4 @@ valid
 *.h5
 .vscode
 .safe
-people_segmentaton
-people_segmentaton/train_mask
-people_segmentaton/*
+**/people_segmentaton
