@@ -82,3 +82,5 @@ valid
 .vscode
 .safe
 people_segmentaton/
+**/catboost_info
+**/aclImdb
